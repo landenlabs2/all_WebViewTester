@@ -1,4 +1,6 @@
-# WebViewTester v1.0
+# a LanDen Labs - WebViewTester 
+Android WebView Tester
+
 Test WebView object with Settings and WebView fragment, plus scroll log of progress status.
 
 Apk v1.0 available in app directory. 
