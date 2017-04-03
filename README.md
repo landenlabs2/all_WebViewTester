@@ -1,6 +1,12 @@
 # a LanDen Labs - WebViewTester 
 Android WebView Tester
 
+*********************************************************************
++Moved Latest GitHub project to:
++[https://github.com/landenlabs/all_WebViewTester)
+*********************************************************************
+
+
 Test WebView object with Settings and WebView fragment, plus scroll log of progress status.
 
 Apk v1.0 available in app directory. 
